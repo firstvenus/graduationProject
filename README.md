@@ -1,2 +1,3 @@
 # graduationProject
 bitirme tez
+acıklaması
